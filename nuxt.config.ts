@@ -10,8 +10,5 @@ export default defineNuxtConfig({
     '@nuxtjs/tailwindcss',
     '@nuxt/image',
     '@nuxtjs/color-mode',
-  ],
-  app: {
-    baseURL: '/Nuxt-Starterkit/'
-  }
+  ]
 })
