@@ -7,38 +7,41 @@ Look at the [Nuxt 3 documentation](https://nuxt.com/) to learn more. This reposi
 
 Nuxt is based on [Vue](https://vuejs.org) and its a good approach to understand the basics of [components](https://vuejs.org/guide/essentials/component-basics.html). [NuxtLink](https://nuxt.com/docs/api/components/nuxt-link) and [NuxtPage](https://nuxt.com/docs/api/components/nuxt-page) are examples of Nuxt components that are based on a Vue logic.
 
-
 ## Setup
 
 Make sure to install the dependencies:
 
-# npm
 ```bash
+# npm
 npm install
+
+
 
 
 ## Development Server
 
 Start the development server on `http://localhost:3000`:
 
-# npm
 ```bash
+# npm
 npm run dev
+
 
 
 ## Production
 
 Build the application for production:
 
-# npm
 ```bash
+# npm
 npm run build
+
 
 
 Locally preview production build:
 
-# npm
 ```bash
+# npm
 npm run preview
 
 
