@@ -1,6 +1,6 @@
-# Media & Information Design - LUCA Bxl - Nuxt 3 StarterKit
+# Digital & Graphic Media at AP, Antwerp - Belgium - Nuxt 3 StarterKit
 
-This is a template for students Media & Information Design - LUCA Bxl. It is a Nuxt based and is extended with 3 modules: [Nuxt Image](https://nuxt.com/modules/image), [Tailwind](https://nuxt.com/modules/tailwindcss) and [Color mode](https://nuxt.com/modules/color-mode)
+This is a template for students Digital & Graphic Media at AP, Antwerp - Belgium. It is a Nuxt based and is extended with 3 modules: [Nuxt Image](https://nuxt.com/modules/image), [Tailwind](https://nuxt.com/modules/tailwindcss) and [Color mode](https://nuxt.com/modules/color-mode)
 
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/) to learn more. This repository implements [page transitions](https://nuxt.com/docs/getting-started/transitions), [routing](https://nuxt.com/docs/getting-started/routing), [css style sheets](https://nuxt.com/docs/getting-started/assets) and [creating navigations](https://nuxt.com/docs/api/components/nuxt-link#nuxtlink). 
